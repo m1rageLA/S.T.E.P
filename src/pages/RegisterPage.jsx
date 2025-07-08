@@ -1,4 +1,4 @@
-import TextDecor from "../components/textDecor";
+import TextDecor from "../components/TextDecor";
 import RegisterComponent from "../features/register/Register";
 const Register = () => {
   return (
